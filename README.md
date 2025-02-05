@@ -1,4 +1,4 @@
-# Networking-project-for-Higher-National-Diploma-in-Network-Engineering-
+# Networking-project-for-Higher-National-Diploma-in-Network-Engineering
 ☆ Network Design and Implementation Project for White Rock Hotel
 
 This project involves the design and implementation of a comprehensive network for White Rock Hotel. The project covers the entire network infrastructure, including network components, virtualization with high availability, and advanced configurations. This is my second and final project for my Higher National Diploma in Network Engineering. All configurations were done using real components and devices, ensuring a practical and effective network setup for the hotel complex.
